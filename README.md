@@ -31,6 +31,6 @@ Proyek React ini akan menampilkan daftar film yang upcoming, popular & top rated
     Movie Detail API - https://api.themoviedb.org/3/movie/{{ id }}?
 
 
-Link live bisa dilihat di [Link](https://see-movie.netlify.app).
+Link live bisa dilihat di [Link](https://dts4a62final.vercel.app/).
 
 Link preview bisa dilihat di [Link](https://gfycat.com/warmcoolirishwaterspaniel).
