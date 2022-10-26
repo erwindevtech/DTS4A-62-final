@@ -20,5 +20,7 @@ Branch dapat sesuai dengan kebutuhan dan kesepakatan bersama dalam pair, namun h
 
 ## Describe Our Porject
 
-Website film sederhana,  seperti website IMDB yang dibuat di React App.
+Website Film sederhana,  seperti website IMDB yang dibuat dengan React.js.
 Proyek React ini akan menampilkan daftar film yang upcoming, popular & top rated movies.. Saat mengklik film apa pun, itu akan menunjukkan kepada kita halaman detail film. Website ini juga memiliki caraousel di bagian atas untuk menampilkan film sebagai  hero banner.
+
+Link live bisa dilihat di [Link](https://see-movie.netlify.app).
